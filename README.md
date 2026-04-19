@@ -1,4 +1,4 @@
-# CS3244 Group 17 - IMDb Spoiler Detection
+# CS3244 Group 17 - Project DeSpoiler
 
 ## Brief Project Summary
 This project builds an end-to-end spoiler classification pipeline on IMDb movie reviews.
